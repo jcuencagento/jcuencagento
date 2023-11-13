@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <img align="center" src="./public/wallpaper.jpg" />
+  <h3 align="center">here 🛸 Javier Cuenca Gento!</h3>
+</div>
 
-<!--
-**jcuencagento/jcuencagento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Desde <b>Ingeniero de Telecomunicaciones</b> a Desarrollador <i>Full-Stack</i></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[👀 Proyecto Computer Vision para UC3M 💻](https://github.com/jcuencagento/compc-vision)
+
+
+[🧠 Proyecto personal 📋](https://github.com/jcuencagento/personality)
+
+
+[📚 Proyecto clásico universitario con C ©️](https://github.com/jcuencagento/library-c)
+
+
+- 🔭 Currently on ionIDe Telematics...
+
