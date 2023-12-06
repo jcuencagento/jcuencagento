@@ -10,9 +10,9 @@
 <div align="center">
     <h3 align="center">Some projects</h3>
     <div align="center">
-        <a href="https://github.com/jcuencagento/compc-vision"><img src="./public/compc.jpg" width="150" height="150" alt="button-compc" /></a>
-        <a href="https://github.com/jcuencagento/personality"><img src="./public/monke_programmer.png" width="150" height="150" alt="button-personality" /></a>
-        <a href="https://github.com/jcuencagento/library-c"><img src="./public/library.jpg" width="150" height="150" alt="button-library" /></a>
+        <a href="https://github.com/jcuencagento/compc-vision"><img src="./public/compc.jpg" width="140" height="140" alt="button-compc" /></a>
+        <a href="https://github.com/jcuencagento/personality"><img src="./public/monke_programmer.png" width="140" height="140" alt="button-personality" /></a>
+        <a href="https://github.com/jcuencagento/library-c"><img src="./public/library.jpg" width="140" height="140" alt="button-library" /></a>
     </div>
 </div>
 
