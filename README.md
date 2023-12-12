@@ -1,11 +1,11 @@
 <div align="center">
-    <img align="center" src="./public/wallpaper.jpg" />
+    <img align="center" width="700" height="500" alt="Logo" src="./public/wallpaper.jpg" />
     <h1 align="center">here 🛸 Javier Cuenca Gento!</h1>
 </div>
 
-<h3 align="center">__ <b>Ingeniero de Telecomunicaciones</b> __ <span>
-    <a href="https://www.uc3m.es/Inicio"><img align="center" src="./public/uc3m.jpg" alt="University Logo" width="90" height="30" /></a>
-</span> __ <i>Full-Stack</i> Developer __</h3>
+<h2 align="center"><b>Ingeniero de Telecomunicaciones</b> at <span>
+    <a href="https://www.uc3m.es/Inicio"><img src="./public/uc3m.jpg" alt="University Logo" width="90" height="30" /></a>
+</span>... <i>Full-Stack</i> Developer </h3>
 
 <div align="center">
     <h3 align="center">Some projects</h3>
