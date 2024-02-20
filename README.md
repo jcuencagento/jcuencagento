@@ -12,7 +12,7 @@
     <div align="center">
         <a href="https://github.com/jcuencagento/donkey-code"><img src="./public/donkey-code.png" width="110" height="110" alt="button-donkey-code" /></a>
         <a href="https://github.com/jcuencagento/compc-vision"><img src="./public/compc.png" width="110" height="110" alt="button-compc" /></a>
-        <a href="https://github.com/jcuencagento/personality"><img src="./public/Nieve.jpg" width="110" height="110" alt="button-personality" /></a>
+        <!-- <a href="https://github.com/jcuencagento/personality"><img src="./public/Nieve.jpg" width="110" height="110" alt="button-personality" /></a> -->
         <a href="https://github.com/jcuencagento/code-me-fast"><img src="./public/monke_programmer.png" width="110" height="110" alt="button-code-me-fast" /></a>
     </div>
 </div>
