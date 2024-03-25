@@ -20,5 +20,7 @@
 
 <br></br>
 
+<!-- Profile Views -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jcuencagento" alt="Javi Cuenca" /> </p>
 
 - 🔭 Currently @ ionIDe Telematics...
