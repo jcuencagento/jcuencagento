@@ -7,6 +7,18 @@
     <a href="https://www.uc3m.es/Inicio"><img src="./public/uc3m.jpg" alt="University Logo" width="90" height="30" /></a>
 </span>... <i>Full-Stack</i> Developer </h3>
 
+<p align="center">
+  <a href= "https://www.linkedin.com/in/jcuencagento/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <a href= "https://github.com/jcuencagento/portfolio">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
+  </a>
+  <a href="mailto:jcuencagento@gmail.com">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/email.png"/>
+  </a>
+</p>
+
 <div align="center">
     <h3 align="center">Some projects</h3>
     <div align="center">
