@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" width="350" height="250" alt="Logo" src="./public/wallpaper.jpg" />
+    <img align="center" width="700" height="250" alt="Logo" src="./public/wallpaper.jpg" />
     <h1 align="center">here 🛸 Javier Cuenca Gento!</h1>
 </div>
 
