@@ -3,7 +3,7 @@
     <h1 align="center">here 🛸 Javier Cuenca Gento! </br>
         <b>Ingeniero de Telecomunicaciones</b> at <span>
         <a href="https://www.uc3m.es/Inicio"><img src="./public/uc3m.jpg" alt="University Logo" width="90" height="30" /></a>
-    </span> & <i>Full-Stack</i> Developer </h1>
+    </span> <br/><i>Full-Stack</i> Developer </h1>
 </div>
 
 <!-- Projects -->
