@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" width="700" height="250" alt="Logo" src="./public/wallpaper.jpg" />
+    <img align="center" width="900" height="350" alt="Logo" src="./public/wallpaper.jpg" />
     <h1 align="center">here 🛸 Javier Cuenca Gento!</h1>
 </div>
 
@@ -41,11 +41,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 ---
 
 
- <a href="https://github.com/jcuencagento?tab=repositories" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcuencagento&layout=compact&theme=jolly&hide_border=true" /></a>
+ <div align="center"><a href="https://github.com/jcuencagento?tab=repositories" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcuencagento&layout=compact&theme=jolly&hide_border=true" /></a></div>
 
 <!-- Profile Views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jcuencagento" alt="Javi Cuenca" /> </p>
