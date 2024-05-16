@@ -44,5 +44,8 @@
 
 ---
 
+
+ <a href="https://github.com/jcuencagento/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcuencagento&layout=compact&theme=jolly&hide_border=true" /></a>
+
 <!-- Profile Views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jcuencagento" alt="Javi Cuenca" /> </p>
