@@ -10,10 +10,10 @@
 <div align="center">
     <h3 align="center">Some projects</h3>
     <div align="center">
-        <a href="https://github.com/jcuencagento/donkey-code"><img src="./public/donkey-code.png" width="80" height="80" alt="button-donkey-code" /></a>
+        <a href="https://donkey-code.vercel.app/"><img src="./public/donkey-code.png" width="80" height="80" alt="button-donkey-code" /></a>
         <a href="https://github.com/jcuencagento/compc-vision"><img src="./public/compc.png" width="80" height="80" alt="button-compc" /></a>
-        <a href="https://github.com/jcuencagento/portfolio"><img src="./public/Nieve.jpg" width="80" height="80" alt="button-personality" /></a>
-        <a href="https://github.com/jcuencagento/code-me-fast"><img src="./public/monke_programmer.png" width="80" height="80" alt="button-code-me-fast" /></a>
+        <a href="https://jcuencagento.vercel.app/"><img src="./public/Nieve.jpg" width="80" height="80" alt="button-personality" /></a>
+        <a href="https://code-me-fast.vercel.app/"><img src="./public/monke_programmer.png" width="80" height="80" alt="button-code-me-fast" /></a>
     </div>
 </div>
 
